@@ -15,7 +15,7 @@ Der Schnellleistencode bleibt bei späteren Updates unverändert.
 
 - `loader.js`: dauerhafter Loader der Schnellleiste
 - `latest.json`: zeigt auf die aktuell veröffentlichte Version
-- `releases/report-loot-helper-v1.0.2.js`: vollständiges Script
+- `releases/report-loot-helper-v1.0.3.js`: vollständiges Script
 - `Schnellleisten-Code.txt`: kurzer Code für Die Stämme
 
 ## Sicherheit
