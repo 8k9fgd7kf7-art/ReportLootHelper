@@ -1,0 +1,1 @@
+javascript:$.getScript('https://cdn.jsdelivr.net/gh/8k9fgd7kf7-art/ReportLootHelper@main/loader.js?t='+Date.now());void 0;
